@@ -1,6 +1,7 @@
 Oi! Eu sou o Juan!
-- 🔭 Atualmente trabalho com Automação Industrial
-- 🌱 Estou aprendendo C#
+- 🔭 Atualmente trabalho com Automação Industrial.
+- 💻 Foco: C# e lógica de programação.
+- 🎮 Hobby: Gamer nas horas vagas.
 - 💬 Contate-me, e-mail: henriquejuan65@gmail.com
 
 <p align="left">
